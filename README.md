@@ -10,5 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2556-convert-the-temperature](https://github.com/Aayush-1104/Coding_Journey/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
