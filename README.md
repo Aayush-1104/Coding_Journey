@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0507-perfect-number) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -22,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
