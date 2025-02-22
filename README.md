@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0507-perfect-number) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
