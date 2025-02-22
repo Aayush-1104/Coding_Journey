@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0507-perfect-number) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2507-number-of-common-factors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
