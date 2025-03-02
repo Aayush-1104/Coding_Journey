@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
