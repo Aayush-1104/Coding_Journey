@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
+| [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
