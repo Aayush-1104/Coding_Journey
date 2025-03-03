@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
