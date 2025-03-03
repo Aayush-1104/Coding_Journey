@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/2659-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
