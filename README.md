@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2507-number-of-common-factors) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
