@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2102-find-the-middle-index-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
