@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 ## Backtracking
