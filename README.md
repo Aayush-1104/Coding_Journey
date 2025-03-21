@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2102-find-the-middle-index-in-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
