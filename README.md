@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Aayush-1104/Coding_Journey/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Aayush-1104/Coding_Journey/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aayush-1104/Coding_Journey/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
