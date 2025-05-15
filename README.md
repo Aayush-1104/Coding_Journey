@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
 ## String
