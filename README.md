@@ -158,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Aayush-1104/Coding_Journey/tree/master/1203-print-in-order) |
+| [1316-fizz-buzz-multithreaded](https://github.com/Aayush-1104/Coding_Journey/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
