@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aayush-1104/Coding_Journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-1104/Coding_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-1104/Coding_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 ## Backtracking
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-print-in-order](https://github.com/Aayush-1104/Coding_Journey/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/Aayush-1104/Coding_Journey/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/Aayush-1104/Coding_Journey/tree/master/1340-the-dining-philosophers) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
