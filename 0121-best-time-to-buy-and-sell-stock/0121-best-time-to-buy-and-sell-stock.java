@@ -5,13 +5,16 @@ class Solution {
             return 0;
         }    
         int profit=0;
-        int min=prices[0];
+        int buy=prices[0];
+        int max=0;
         for(int i=1;i<n;i++){
-            min=Math.min(prices[i],min);
-            if(prices[i]>prices[i-1]){
-                profit=Math.max(profit,(prices[i]-min));
+            profit= prices[i]-buy;
+        
+            if(profit>max){
+                max=profit;
             }
+            if(profit<0) buy = prices[i];
         }
-        return profit;
+        return max;
     }
 }
