@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-1104/Coding_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Aayush-1104/Coding_Journey/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 ## Concurrency
 |  |
 | ------- |
