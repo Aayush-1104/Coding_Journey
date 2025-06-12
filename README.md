@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayush-1104/Coding_Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2102-find-the-middle-index-in-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Stack
 |  |
