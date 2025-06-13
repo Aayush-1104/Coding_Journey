@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayush-1104/Coding_Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aayush-1104/Coding_Journey/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
