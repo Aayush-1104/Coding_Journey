@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/2659-number-of-even-and-odd-bits) |
 ## Divide and Conquer
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aayush-1104/Coding_Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aayush-1104/Coding_Journey/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
