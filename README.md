@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/Aayush-1104/Coding_Journey/tree/master/2181-smallest-index-with-equal-value) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Aayush-1104/Coding_Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayush-1104/Coding_Journey/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
