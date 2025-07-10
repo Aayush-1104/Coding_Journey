@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aayush-1104/Coding_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayush-1104/Coding_Journey/tree/master/0908-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
