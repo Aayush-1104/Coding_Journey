@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-1104/Coding_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 ## Backtracking
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayush-1104/Coding_Journey/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
