@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0777-toeplitz-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 ## String Matching
 |  |
