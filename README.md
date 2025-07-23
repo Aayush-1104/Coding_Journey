@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aayush-1104/Coding_Journey/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 ## Concurrency
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aayush-1104/Coding_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Aayush-1104/Coding_Journey/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
