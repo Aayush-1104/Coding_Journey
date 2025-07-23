@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/Aayush-1104/Coding_Journey/tree/master/2181-smallest-index-with-equal-value) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Aayush-1104/Coding_Journey/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Aayush-1104/Coding_Journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Aayush-1104/Coding_Journey/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Database
 |  |
 | ------- |
