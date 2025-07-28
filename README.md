@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aayush-1104/Coding_Journey/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/2659-number-of-even-and-odd-bits) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Aayush-1104/Coding_Journey/tree/master/0792-binary-search) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aayush-1104/Coding_Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aayush-1104/Coding_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/Aayush-1104/Coding_Journey/tree/master/1319-unique-number-of-occurrences) |
