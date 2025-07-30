@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Aayush-1104/Coding_Journey/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1217-relative-sort-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aayush-1104/Coding_Journey/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aayush-1104/Coding_Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aayush-1104/Coding_Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/1217-relative-sort-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Aayush-1104/Coding_Journey/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Database
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
+| [1217-relative-sort-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Aayush-1104/Coding_Journey/tree/master/1319-unique-number-of-occurrences) |
 ## Concurrency
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/1217-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |
