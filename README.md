@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2507-number-of-common-factors](https://github.com/Aayush-1104/Coding_Journey/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Aayush-1104/Coding_Journey/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Aayush-1104/Coding_Journey/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aayush-1104/Coding_Journey/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
