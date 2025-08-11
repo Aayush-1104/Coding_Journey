@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0392-is-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aayush-1104/Coding_Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aayush-1104/Coding_Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aayush-1104/Coding_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
