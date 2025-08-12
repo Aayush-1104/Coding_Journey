@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aayush-1104/Coding_Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0392-is-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Aayush-1104/Coding_Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
@@ -219,10 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Aayush-1104/Coding_Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Design
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0817-design-hashmap](https://github.com/Aayush-1104/Coding_Journey/tree/master/0817-design-hashmap) |
 | [1217-relative-sort-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/1217-relative-sort-array) |
