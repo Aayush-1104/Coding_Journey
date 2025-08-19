@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-1104/Coding_Journey/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aayush-1104/Coding_Journey/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush-1104/Coding_Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/Aayush-1104/Coding_Journey/tree/master/0941-sort-array-by-parity) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aayush-1104/Coding_Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aayush-1104/Coding_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayush-1104/Coding_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-1104/Coding_Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -326,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -376,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aayush-1104/Coding_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Aayush-1104/Coding_Journey/tree/master/0695-max-area-of-island) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-1104/Coding_Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
