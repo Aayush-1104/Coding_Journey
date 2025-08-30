@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aayush-1104/Coding_Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aayush-1104/Coding_Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aayush-1104/Coding_Journey/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aayush-1104/Coding_Journey/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aayush-1104/Coding_Journey/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Aayush-1104/Coding_Journey/tree/master/0204-count-primes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush-1104/Coding_Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aayush-1104/Coding_Journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aayush-1104/Coding_Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-1104/Coding_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-1104/Coding_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Aayush-1104/Coding_Journey/tree/master/0338-counting-bits) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aayush-1104/Coding_Journey/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Aayush-1104/Coding_Journey/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
